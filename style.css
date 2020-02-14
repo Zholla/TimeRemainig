@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 700px;
+    font-family: 'Lemonada', cursive;
+    font-size: 15px;
+    background: linear-gradient(#EE4540, #C72C41);
+    color: aliceblue;
+
+}
+
+.timer {
+    width: 100%;
+    height: 100%;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+.timer-numbers {
+    font-size: 4.67rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+h3 {
+    text-align: center;
+    font-size: 3.27rem;
+}
